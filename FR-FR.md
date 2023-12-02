@@ -11,17 +11,6 @@ Je liste exclusivement les liens en français. Cette liste vient en complément 
 
 ## Livres
 
-## Videos
-* [Tutoriel vidéo AngularJS : Découverte du Framework, création d'une Todo] (http://www.grafikart.fr/tutoriels/angularjs/angularjs-todo-369) — 38:59
-* [AngularJS & le futur du développement web 1] (http://vimeo.com/67375955) — 09:09
-* [AngularJS & le futur du développement web 2] (http://vimeo.com/67544320) — 35:06
-* [Focus sur les filtres AngularJS] (http://vimeo.com/67627121) — 47:26
-* [Formation vidéo Angularjs sur Grafikart] (http://www.grafikart.fr/formation/angularjs) - 02h19
-
-## Aide
-* [Forum FrAngular] (https://groups.google.com/forum/?fromgroups=#!forum/frangular)
-* [Blog EpokK] (http://epokk.github.io)
-
 ## Général
 * [AngularJS : less code more fun] (http://www.itaware.eu/2012/06/13/angularjs-less-code-more-fun/)
 * [Comment aborder AngularJS ?] (http://www.frangular.com/2013/03/comment-aborder-angularjs.html)
