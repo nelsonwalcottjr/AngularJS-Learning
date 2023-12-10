@@ -19,8 +19,6 @@
 * [Recipes With AngularJS] (https://leanpub.com/recipes-with-angular-js)
 * [AngularJS In Action] (http://www.manning.com/bford/)
 * [AngularJS For .Net Developers] (http://henriquat.re/)
-* [Web Application Development With AngularJS] (http://www.packtpub.com/angularjs-web-application-development/book)
-* [Developing An AngularJS Edge] (http://bleedingedgepress.com/our-books/developing-an-angularjs-edge/)
 * [AngularJS Directives] (http://www.packtpub.com/angularjs-directives/book)
 * [ng-book] (http://www.ng-book.com/)
 * [Build Your Own AngularJS] (http://teropa.info/build-your-own-angular/)
