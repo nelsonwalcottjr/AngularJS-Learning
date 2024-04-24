@@ -8,7 +8,6 @@
 注意：**開頭的連結是討論 Angular 1.2 版的新功能。許多人希望快速了解 Angular 1.2 版的新功能，所以我也會在之後開出新的分類標題。等內容整理差不多或者 1.2 版分類變得太大我再來編輯，不過現在的話 Angular 1.2 連結可以在兩處同時看到。
 
 ## Angular 1.2 的新功能
-* [**Preparing for Animations in Angular 1.2.0] (http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
 * [**5 Cool New Features in AngularJS 1.2] (http://www.neevtech.com/blog/2013/08/17/5-cool-features-in-angularjs-1-2/)
 * [**Replacing jQuery.slideDown() with ngAnimate in AngularJS 1.2.0] (https://www.exratione.com/2013/09/replacing-jqueryslidedown-with-nganimate-in-angularjs-120/)
 * [**Getting Ready for AngularJS 1.2] (http://wildermuth.com/2013/9/18/Getting_Ready_for_AngularJS_1_2)
